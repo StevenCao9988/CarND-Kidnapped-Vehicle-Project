@@ -6,6 +6,8 @@ All you will need to submit is your `src` directory. You should probably do a `g
 
 ## Result
 1. Video: the whole process of particle filter;
+![Video](https://github.com/StevenCao9988/CarND-Kidnapped-Vehicle-Project/blob/master/result/particle_filter.mp4)
+
 2. Picture: the successful end of particle filter;
 ![Picture](https://github.com/StevenCao9988/CarND-Kidnapped-Vehicle-Project/blob/master/result/success_result.JPG)
 
